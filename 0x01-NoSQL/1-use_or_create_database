@@ -1,2 +1,2 @@
-// create or use databaes 
-use mydb;
+// Create a database
+use my_db
